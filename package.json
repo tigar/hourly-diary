@@ -1,0 +1,15 @@
+{
+  "name": "hourly-diary",
+  "version": "0.0.1",
+  "description": "Minimal logging tool for personal use",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/tigar/hourly-diary",
+  "author": "Adam Tigar",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.4"
+  }
+}
